@@ -10,6 +10,7 @@ Only use the GitHub Issues section if you discovered issues with the code itself
 OS Version: [FILL IN]
 Device Manufacturer: [FILL IN]
 //juuhuujjjjj
+// jjghgshytsytysus
 
 **Stickers**
 - [ ] My stickers do comply with the sticker requirements (512x512 and < 100 KB)
